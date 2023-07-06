@@ -12,6 +12,7 @@ dependencies:
   flutter:
     sdk: flutter
   pedantic: 1.11.0
+  flutter_riverpod: ^2.3.6
 
 dev_dependencies:
   flutter_test:
